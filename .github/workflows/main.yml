@@ -1,0 +1,27 @@
+name: Download Site Count File
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  download-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Download File
+        run: |
+          mkdir -p site-count
+          current_datetime=$(date +'%Y-%m-%d_%H-%M-%S')
+          output_file="site-count/site-count_$current_datetime.json"
+          curl -s -o $output_file https://wordpressenginetracker.com/site-count.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-saving site count file"
+          git push
