@@ -2,7 +2,7 @@ name: Download Site Count File
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
+    - cron: '0 * * * *'  # Run every 5 minutes
 
 jobs:
   download-file:
