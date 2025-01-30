@@ -1,0 +1,793 @@
+{
+    "siteCount": 41166,
+    "recentlyMoved": [
+        {
+            "domain_name": "www.ucanwest.ca",
+            "destination": "WordPress VIP",
+            "date": "2025-01-30 12:33:31"
+        },
+        {
+            "domain_name": "www.biorejuvenate.com",
+            "destination": "Kinsta",
+            "date": "2025-01-30 12:10:50"
+        },
+        {
+            "domain_name": "wellnessrevolutioncrossfit.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-30 11:57:20"
+        },
+        {
+            "domain_name": "femaleathleteuniversity.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-30 11:52:44"
+        },
+        {
+            "domain_name": "www.bawamedical.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-30 11:46:21"
+        },
+        {
+            "domain_name": "perrythepropertymanager.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 11:34:35"
+        },
+        {
+            "domain_name": "drolofx.com",
+            "destination": "Hostinger",
+            "date": "2025-01-30 10:37:55"
+        },
+        {
+            "domain_name": "mollinmaailma.fi",
+            "destination": "Kinsta",
+            "date": "2025-01-30 09:57:40"
+        },
+        {
+            "domain_name": "masswindowanddoor.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-30 09:47:42"
+        },
+        {
+            "domain_name": "developer.mimer.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 09:44:37"
+        },
+        {
+            "domain_name": "tallshipsbrockville.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 09:43:39"
+        },
+        {
+            "domain_name": "butterballgiftcheckprogram.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 09:19:41"
+        },
+        {
+            "domain_name": "bodytechtotalfitness.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 09:09:20"
+        },
+        {
+            "domain_name": "brand.huboo.com",
+            "destination": "SiteGround",
+            "date": "2025-01-30 08:52:43"
+        },
+        {
+            "domain_name": "www.glenwoodcaverns.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 08:49:23"
+        },
+        {
+            "domain_name": "huset-middelfart.dk",
+            "destination": "Kinsta",
+            "date": "2025-01-30 08:44:42"
+        },
+        {
+            "domain_name": "www.byggecentrum.dk",
+            "destination": "Kinsta",
+            "date": "2025-01-30 08:40:47"
+        },
+        {
+            "domain_name": "www.fanablikk.no",
+            "destination": "Pressable",
+            "date": "2025-01-30 08:39:08"
+        },
+        {
+            "domain_name": "bewellchiropracticpc.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 08:25:57"
+        },
+        {
+            "domain_name": "publiva.fi",
+            "destination": "Kinsta",
+            "date": "2025-01-30 08:05:51"
+        },
+        {
+            "domain_name": "ark-wm.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-30 08:05:29"
+        },
+        {
+            "domain_name": "volunteersweek.org",
+            "destination": "SiteGround",
+            "date": "2025-01-30 07:52:17"
+        },
+        {
+            "domain_name": "americanbrakeandmufflershop.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 07:37:50"
+        },
+        {
+            "domain_name": "normalondon.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 06:21:19"
+        },
+        {
+            "domain_name": "thetalentpeople.co.uk",
+            "destination": "SiteGround",
+            "date": "2025-01-30 05:44:20"
+        },
+        {
+            "domain_name": "ctrlcarebh.com",
+            "destination": "Hostinger",
+            "date": "2025-01-30 05:34:53"
+        },
+        {
+            "domain_name": "cfsignalhill.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 05:29:12"
+        },
+        {
+            "domain_name": "breakout-crossfit.de",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 04:59:11"
+        },
+        {
+            "domain_name": "www.drivelinebaseball.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 04:41:08"
+        },
+        {
+            "domain_name": "www.goldenretrieversandfrenchbulldogs.com",
+            "destination": "Namecheap",
+            "date": "2025-01-30 04:39:43"
+        },
+        {
+            "domain_name": "www.dogtrainerthailand.com",
+            "destination": "Namecheap",
+            "date": "2025-01-30 04:26:43"
+        },
+        {
+            "domain_name": "gss.org",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 04:21:45"
+        },
+        {
+            "domain_name": "wowsmiles.com",
+            "destination": "SiteGround",
+            "date": "2025-01-30 03:58:29"
+        },
+        {
+            "domain_name": "mowpoweraz.com",
+            "destination": "GridPane",
+            "date": "2025-01-30 02:29:45"
+        },
+        {
+            "domain_name": "mountainvistafarm.com",
+            "destination": "WordPress.com",
+            "date": "2025-01-30 02:29:45"
+        },
+        {
+            "domain_name": "esquelas.vanguardia.com.mx",
+            "destination": "A2 Hosting",
+            "date": "2025-01-30 02:24:53"
+        },
+        {
+            "domain_name": "dynek.com",
+            "destination": "Kinsta",
+            "date": "2025-01-30 02:12:05"
+        },
+        {
+            "domain_name": "lowcountrydentistryinc.com",
+            "destination": "Pressable",
+            "date": "2025-01-30 01:31:14"
+        },
+        {
+            "domain_name": "www.jonatwincreeks.com",
+            "destination": "SiteGround",
+            "date": "2025-01-30 01:24:33"
+        },
+        {
+            "domain_name": "brandedfresh.com",
+            "destination": "Hostinger",
+            "date": "2025-01-30 00:41:28"
+        },
+        {
+            "domain_name": "www.beachaesthetics.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-30 00:35:15"
+        },
+        {
+            "domain_name": "proglass.co.nz",
+            "destination": "Digital Ocean",
+            "date": "2025-01-30 00:21:20"
+        },
+        {
+            "domain_name": "poolguardusa.com",
+            "destination": "Kinsta",
+            "date": "2025-01-30 00:12:38"
+        },
+        {
+            "domain_name": "pennasphalt.com",
+            "destination": "Kinsta",
+            "date": "2025-01-30 00:09:57"
+        },
+        {
+            "domain_name": "freshsupport.info",
+            "destination": "WordPress.com",
+            "date": "2025-01-30 00:03:18"
+        },
+        {
+            "domain_name": "newmarkac.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 23:07:20"
+        },
+        {
+            "domain_name": "vanguardiaexpres.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 22:59:15"
+        },
+        {
+            "domain_name": "teamtrafera.com",
+            "destination": "Wordify",
+            "date": "2025-01-29 22:05:14"
+        },
+        {
+            "domain_name": "www.on24.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 21:34:14"
+        },
+        {
+            "domain_name": "champaignestudio.com",
+            "destination": "BigScoots",
+            "date": "2025-01-29 21:27:37"
+        },
+        {
+            "domain_name": "www.nwnaturals.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-29 21:20:19"
+        },
+        {
+            "domain_name": "corepropertiesstl.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 21:18:33"
+        },
+        {
+            "domain_name": "iejournalism.fund",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 20:50:37"
+        },
+        {
+            "domain_name": "www.humphreyscapital.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 20:41:12"
+        },
+        {
+            "domain_name": "www.brandnation.com.au",
+            "destination": "SiteGround",
+            "date": "2025-01-29 20:39:36"
+        },
+        {
+            "domain_name": "hiddenacresresort.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 20:31:07"
+        },
+        {
+            "domain_name": "qualitytitleservice.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 20:29:31"
+        },
+        {
+            "domain_name": "atvbroadcast.tv",
+            "destination": "SiteGround",
+            "date": "2025-01-29 20:26:32"
+        },
+        {
+            "domain_name": "atticmonkey.cool",
+            "destination": "Bluehost",
+            "date": "2025-01-29 20:26:32"
+        },
+        {
+            "domain_name": "greenopportunitiesinc.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 20:04:11"
+        },
+        {
+            "domain_name": "ashlarhomeskc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 19:45:58"
+        },
+        {
+            "domain_name": "flagstonemanagement.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 19:42:53"
+        },
+        {
+            "domain_name": "fccrichmond.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 19:12:15"
+        },
+        {
+            "domain_name": "truehomeroofing.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 18:59:33"
+        },
+        {
+            "domain_name": "thenannytribe.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 18:21:55"
+        },
+        {
+            "domain_name": "dutchwoodcabinets.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 18:15:41"
+        },
+        {
+            "domain_name": "epoxyfloorexperts.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 18:14:54"
+        },
+        {
+            "domain_name": "www.somerset-hills.org",
+            "destination": "Kinsta",
+            "date": "2025-01-29 18:13:27"
+        },
+        {
+            "domain_name": "stjosephwaconia.org",
+            "destination": "SiteGround",
+            "date": "2025-01-29 18:06:59"
+        },
+        {
+            "domain_name": "mcfarlin-group.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 18:03:48"
+        },
+        {
+            "domain_name": "www.nepestfree.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 17:37:17"
+        },
+        {
+            "domain_name": "cacn.ca",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 17:21:55"
+        },
+        {
+            "domain_name": "livingmybeststyle.com",
+            "destination": "BigScoots",
+            "date": "2025-01-29 17:21:34"
+        },
+        {
+            "domain_name": "kivise-safety.com",
+            "destination": "OVH",
+            "date": "2025-01-29 17:21:24"
+        },
+        {
+            "domain_name": "www.operationmedical.org",
+            "destination": "Kinsta",
+            "date": "2025-01-29 17:08:06"
+        },
+        {
+            "domain_name": "www.dunamisinteriors-designbuild.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 17:01:26"
+        },
+        {
+            "domain_name": "www.jemechanical.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-29 17:01:13"
+        },
+        {
+            "domain_name": "homedefensetraining.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 16:55:52"
+        },
+        {
+            "domain_name": "scensverige.se",
+            "destination": "Kinsta",
+            "date": "2025-01-29 16:50:07"
+        },
+        {
+            "domain_name": "herronstack.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 16:40:17"
+        },
+        {
+            "domain_name": "www.crystalpoolsinc.com",
+            "destination": "Kinsta",
+            "date": "2025-01-29 16:32:34"
+        },
+        {
+            "domain_name": "hailnopdrservices.com",
+            "destination": "Digital Ocean",
+            "date": "2025-01-29 16:27:35"
+        },
+        {
+            "domain_name": "hydrantservices.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 16:27:17"
+        },
+        {
+            "domain_name": "growingfaces.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 16:24:21"
+        },
+        {
+            "domain_name": "www.bernsteinbraces.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 16:19:56"
+        },
+        {
+            "domain_name": "bellalinea.com",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 16:18:05"
+        },
+        {
+            "domain_name": "geco.mx",
+            "destination": "A2 Hosting",
+            "date": "2025-01-29 16:10:58"
+        },
+        {
+            "domain_name": "haluchslawnsprinklers.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 16:09:06"
+        },
+        {
+            "domain_name": "oceanridgecleanup.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 16:03:24"
+        },
+        {
+            "domain_name": "fuelingwithfood.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 15:56:50"
+        },
+        {
+            "domain_name": "wfbiggins.com",
+            "destination": "Hostinger",
+            "date": "2025-01-29 15:49:24"
+        },
+        {
+            "domain_name": "nvpoolcompany.com",
+            "destination": "GoDaddy",
+            "date": "2025-01-29 15:46:28"
+        },
+        {
+            "domain_name": "arcsolutions.us",
+            "destination": "Bluehost",
+            "date": "2025-01-29 15:46:25"
+        },
+        {
+            "domain_name": "advancedhoodsystems.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 15:45:12"
+        },
+        {
+            "domain_name": "advancedbusinessconcepts.net",
+            "destination": "Kinsta",
+            "date": "2025-01-29 15:45:12"
+        },
+        {
+            "domain_name": "fleminghsv.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 15:23:27"
+        },
+        {
+            "domain_name": "westernrelocationsinc.com",
+            "destination": "Pressable",
+            "date": "2025-01-29 15:19:58"
+        },
+        {
+            "domain_name": "fhfc.co.za",
+            "destination": "Namecheap",
+            "date": "2025-01-29 15:19:00"
+        },
+        {
+            "domain_name": "utahcoalition.org",
+            "destination": "Digital Ocean",
+            "date": "2025-01-29 14:30:41"
+        },
+        {
+            "domain_name": "negativecolors.com",
+            "destination": "SiteGround",
+            "date": "2025-01-29 14:14:00"
+        }
+    ],
+    "dailyMovedStat": {
+        "2024-09-21": "94",
+        "2024-09-22": "199",
+        "2024-09-23": "345",
+        "2024-09-24": "492",
+        "2024-09-25": "709",
+        "2024-09-26": "920",
+        "2024-09-27": "1151",
+        "2024-09-28": "1378",
+        "2024-09-29": "1581",
+        "2024-09-30": "1808",
+        "2024-10-01": "2030",
+        "2024-10-02": "2247",
+        "2024-10-03": "2544",
+        "2024-10-04": "2807",
+        "2024-10-05": "3040",
+        "2024-10-06": "3176",
+        "2024-10-07": "3225",
+        "2024-10-08": "3236",
+        "2024-10-09": "5144",
+        "2024-10-10": "5833",
+        "2024-10-11": "5893",
+        "2024-10-12": "5998",
+        "2024-10-13": "6306",
+        "2024-10-14": "6505",
+        "2024-10-15": "6891",
+        "2024-10-16": "7295",
+        "2024-10-17": "7706",
+        "2024-10-18": "8159",
+        "2024-10-19": "8726",
+        "2024-10-20": "8887",
+        "2024-10-21": "9024",
+        "2024-10-22": "9363",
+        "2024-10-23": "9983",
+        "2024-10-24": "10540",
+        "2024-10-25": "11045",
+        "2024-10-26": "11549",
+        "2024-10-27": "11717",
+        "2024-10-28": "11903",
+        "2024-10-29": "12374",
+        "2024-10-30": "12971",
+        "2024-10-31": "13468",
+        "2024-11-01": "13969",
+        "2024-11-02": "14516",
+        "2024-11-03": "14627",
+        "2024-11-04": "14709",
+        "2024-11-05": "15080",
+        "2024-11-06": "16045",
+        "2024-11-07": "16446",
+        "2024-11-08": "16798",
+        "2024-11-09": "17121",
+        "2024-11-10": "17418",
+        "2024-11-11": "17860",
+        "2024-11-12": "18294",
+        "2024-11-13": "18512",
+        "2024-11-14": "18951",
+        "2024-11-15": "19435",
+        "2024-11-16": "19838",
+        "2024-11-17": "19924",
+        "2024-11-18": "20048",
+        "2024-11-19": "20351",
+        "2024-11-20": "20977",
+        "2024-11-21": "21733",
+        "2024-11-22": "22351",
+        "2024-11-23": "22794",
+        "2024-11-24": "22890",
+        "2024-11-25": "23102",
+        "2024-11-26": "23520",
+        "2024-11-27": "23890",
+        "2024-11-28": "24253",
+        "2024-11-29": "24507",
+        "2024-11-30": "24714",
+        "2024-12-01": "24827",
+        "2024-12-02": "24959",
+        "2024-12-03": "25264",
+        "2024-12-04": "25595",
+        "2024-12-05": "25980",
+        "2024-12-06": "26353",
+        "2024-12-07": "26706",
+        "2024-12-08": "26828",
+        "2024-12-09": "26944",
+        "2024-12-10": "27235",
+        "2024-12-11": "27669",
+        "2024-12-12": "28038",
+        "2024-12-13": "28452",
+        "2024-12-14": "28737",
+        "2024-12-15": "28865",
+        "2024-12-16": "28997",
+        "2024-12-17": "29355",
+        "2024-12-18": "29794",
+        "2024-12-19": "30255",
+        "2024-12-20": "30754",
+        "2024-12-21": "31178",
+        "2024-12-22": "31290",
+        "2024-12-23": "31427",
+        "2024-12-24": "31729",
+        "2024-12-25": "31943",
+        "2024-12-26": "32052",
+        "2024-12-27": "32242",
+        "2024-12-28": "32470",
+        "2024-12-29": "32577",
+        "2024-12-30": "32689",
+        "2024-12-31": "32943",
+        "2025-01-01": "33166",
+        "2025-01-02": "33269",
+        "2025-01-03": "33531",
+        "2025-01-04": "33774",
+        "2025-01-05": "33872",
+        "2025-01-06": "33979",
+        "2025-01-07": "34265",
+        "2025-01-08": "34535",
+        "2025-01-09": "34828",
+        "2025-01-10": "35162",
+        "2025-01-11": "35441",
+        "2025-01-12": "35553",
+        "2025-01-13": "35677",
+        "2025-01-14": "35976",
+        "2025-01-15": "36380",
+        "2025-01-16": "36807",
+        "2025-01-17": "37213",
+        "2025-01-18": "37540",
+        "2025-01-19": "37667",
+        "2025-01-20": "38458",
+        "2025-01-21": "38845",
+        "2025-01-22": "39215",
+        "2025-01-23": "39518",
+        "2025-01-24": "39857",
+        "2025-01-25": "40177",
+        "2025-01-26": "40289",
+        "2025-01-27": "40428",
+        "2025-01-28": "40722",
+        "2025-01-29": "41070"
+    },
+    "topDestinationHosts": {
+        "Pressable": 7698,
+        "Bluehost": 3683,
+        "Kinsta": 2539,
+        "Digital Ocean": 2512,
+        "SiteGround": 2252,
+        "Hostinger": 1428,
+        "GoDaddy": 680,
+        "BigScoots": 340,
+        "Liquid Web": 266,
+        "GridPane": 226,
+        "Elementor Hosting": 217,
+        "WordPress.com": 192,
+        "InMotion Hosting": 176,
+        "IONOS": 157,
+        "Wordify": 152,
+        "OVH": 145,
+        "A2 Hosting": 129,
+        "Namecheap": 124,
+        "Hetzner Online": 112,
+        "DreamHost": 102
+    },
+    "dailyTotalStat": {
+        "2024-09-21": "745273",
+        "2024-09-22": "744978",
+        "2024-09-23": "744642",
+        "2024-09-24": "744305",
+        "2024-09-25": "743898",
+        "2024-09-26": "743497",
+        "2024-09-27": "743076",
+        "2024-09-28": "742659",
+        "2024-09-29": "742266",
+        "2024-09-30": "741849",
+        "2024-10-01": "741437",
+        "2024-10-02": "741030",
+        "2024-10-03": "740543",
+        "2024-10-04": "740090",
+        "2024-10-05": "739667",
+        "2024-10-06": "739341",
+        "2024-10-07": "739102",
+        "2024-10-08": "738901",
+        "2024-10-09": "736803",
+        "2024-10-10": "735829",
+        "2024-10-11": "735997",
+        "2024-10-12": "735841",
+        "2024-10-13": "735365",
+        "2024-10-14": "734798",
+        "2024-10-15": "734234",
+        "2024-10-16": "733668",
+        "2024-10-17": "733075",
+        "2024-10-18": "732477",
+        "2024-10-19": "731732",
+        "2024-10-20": "731533",
+        "2024-10-21": "731196",
+        "2024-10-22": "730633",
+        "2024-10-23": "729850",
+        "2024-10-24": "729189",
+        "2024-10-25": "728350",
+        "2024-10-26": "727792",
+        "2024-10-27": "727537",
+        "2024-10-28": "727127",
+        "2024-10-29": "726413",
+        "2024-10-30": "725658",
+        "2024-10-31": "725027",
+        "2024-11-01": "724384",
+        "2024-11-02": "723748",
+        "2024-11-03": "723544",
+        "2024-11-04": "723276",
+        "2024-11-05": "722762",
+        "2024-11-06": "721646",
+        "2024-11-07": "721100",
+        "2024-11-08": "720563",
+        "2024-11-09": "720107",
+        "2024-11-10": "719748",
+        "2024-11-11": "719157",
+        "2024-11-12": "718533",
+        "2024-11-13": "718108",
+        "2024-11-14": "717543",
+        "2024-11-15": "716862",
+        "2024-11-16": "716381",
+        "2024-11-17": "716544",
+        "2024-11-18": "715924",
+        "2024-11-19": "715530",
+        "2024-11-20": "714747",
+        "2024-11-21": "712869",
+        "2024-11-22": "712189",
+        "2024-11-23": "711241",
+        "2024-11-24": "707360",
+        "2024-11-25": "707035",
+        "2024-11-26": "705867",
+        "2024-11-27": "704968",
+        "2024-11-28": "704773",
+        "2024-11-29": "704054",
+        "2024-11-30": "703389",
+        "2024-12-01": "704036",
+        "2024-12-02": "702375",
+        "2024-12-03": "701792",
+        "2024-12-04": "701042",
+        "2024-12-05": "696740",
+        "2024-12-06": "698884",
+        "2024-12-07": "698514",
+        "2024-12-08": "699485",
+        "2024-12-09": "698652",
+        "2024-12-10": "697735",
+        "2024-12-11": "696939",
+        "2024-12-12": "696102",
+        "2024-12-13": "695379",
+        "2024-12-14": "695120",
+        "2024-12-15": "695355",
+        "2024-12-16": "694609",
+        "2024-12-17": "693450",
+        "2024-12-18": "692442",
+        "2024-12-19": "691658",
+        "2024-12-20": "690920",
+        "2024-12-21": "690540",
+        "2024-12-22": "691624",
+        "2024-12-23": "691068",
+        "2024-12-24": "690561",
+        "2024-12-25": "690090",
+        "2024-12-26": "689848",
+        "2024-12-27": "689507",
+        "2024-12-28": "689283",
+        "2024-12-29": "689259",
+        "2024-12-30": "689405",
+        "2024-12-31": "688931",
+        "2025-01-01": "687715",
+        "2025-01-02": "687730",
+        "2025-01-03": "687184",
+        "2025-01-04": "686846",
+        "2025-01-05": "687164",
+        "2025-01-06": "686406",
+        "2025-01-07": "685764",
+        "2025-01-08": "685098",
+        "2025-01-09": "684352",
+        "2025-01-10": "683649",
+        "2025-01-11": "683469",
+        "2025-01-12": "683870",
+        "2025-01-13": "683311",
+        "2025-01-14": "681951",
+        "2025-01-15": "681361",
+        "2025-01-16": "679845",
+        "2025-01-17": "680011",
+        "2025-01-18": "679707",
+        "2025-01-19": "679384",
+        "2025-01-20": "678744",
+        "2025-01-21": "677599",
+        "2025-01-22": "677146",
+        "2025-01-23": "676540",
+        "2025-01-24": "675709",
+        "2025-01-25": "675206",
+        "2025-01-26": "676118",
+        "2025-01-27": "675609",
+        "2025-01-28": "674792",
+        "2025-01-29": "673810"
+    }
+}
